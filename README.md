@@ -211,6 +211,12 @@ http://your-server-ip
 It should look like that:
 
 <img width="1900" height="892" alt="image" src="https://github.com/user-attachments/assets/3289a7e4-c1ee-4054-9bc6-2bf7e5f33904" />
+<img width="1894" height="890" alt="image" src="https://github.com/user-attachments/assets/71638afc-9485-48a3-ae24-0e56d3fb27dd" />
+<img width="1920" height="892" alt="image" src="https://github.com/user-attachments/assets/df7ce447-3f11-43ac-8d0c-65cf40adb645" />
+<img width="1897" height="843" alt="image" src="https://github.com/user-attachments/assets/6e7b134a-fb2a-48af-9939-36df9de0a608" />
+
+
+
 
 ## License
 
